@@ -1,10 +1,10 @@
-Deck of Cards Test Application
+# Deck of Cards Test Application
 
-Created by: Phillip Wray
+## Created by: Phillip Wray
 
-Date: December 27, 2017
+## Date: December 27, 2017
 
-Instructions
+### Instructions
 
 This application can be run as a console application inside eclipse.
 
